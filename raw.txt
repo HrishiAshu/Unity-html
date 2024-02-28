@@ -1,0 +1,557 @@
+
+                        <div class="single_service service_bg_2">
+                            <div class="service_hover">
+                                <h3>Services</h3>
+                                <div class="hover_content">
+                                    <div class="hover_content_inner">
+                                        <h4>Services</h4>
+                                        <p>Erection, testing, and commissioning of substations and all
+                                            range of switchgearTroubleshooting and maintenance of all LV and MV
+                                            switchgear
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59982.37979126147!2d73.67153853125001!3d20.012764299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddec718deba2db%3A0x9903d595c214d150!2sParadise%20Apartment!5e0!3m2!1sen!2sin!4v1676197627357!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+
+
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59982.37979126147!2d73.67153853125001!3d20.012764299999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddec718deba2db%3A0x9903d595c214d150!2sParadise%20Apartment!5e0!3m2!1sen!2sin!4v1676197627357!5m2!1sen!2sin" 
+
+
+
+<section class="servicesection">
+                <h2>We provide </h2>
+                <div class="fourservice">
+                <div class="servicepagecard">
+                    <div class="servicecontent">
+                    <h3>Services</h3>
+                        <ul>
+                            <li>Erection, testing, and commissioning of substations and all
+                                range of switchgear</li>
+                            <li>Troubleshooting and maintenance of all LV and MV
+                                switchgear, especially our team is having sound experience
+                                with ABB, AREVA, L&T AND SCHNEIDER switchgear and circuit
+                                breakers</li>
+                            <li>AMC contracts, We are having good experience to
+                                maintain switchgear and circuit breakers by covering
+                                equipment against the Annual maintenance contract</li>
+                            <li>Low Voltage Circuit breakers and Panels.</li>
+                            <li>GIS switchgear</li>
+                            <li>All type of outdoor type breakers</li>
+                            <li>Railway breakers</li>
+                            <li>Ring main units</li>
+                            <li>Compact secondary substation</li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="servicepagecard">2</div>                
+                <div class="servicepagecard">3</div>
+                <div class="servicepagecard">4</div>
+                
+
+            </div>        
+        </section>
+
+
+
+
+
+
+
+        .project_area .project_info h3{
+  color: #fff;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 55px;
+}
+.project_area .project_info li{
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 55px;
+}
+
+.project_area .project_info p {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 26px;
+  margin-top: 8px;
+}
+
+
+
+
+
+
+<section class="services_service">
+                <div class="servicecontent">
+                    <h1> Our Services</h1>
+                    
+                        <ol>
+                            <li>The Service group is capable of undertaking a wide variety
+                                of installation, testing, and <br>commissioning projects for a wide
+                                variety of clients.
+                                The scope of our E&C services includes:</li>
+                                <br>
+                            <li> Erection, testing, and commissioning of substations and all
+                                range of switchgear</li>
+                            <li>Troubleshooting and maintenance of all LV and MV
+                                switchgear, especially our team<br> is having sound experience
+                                with ABB, AREVA, L&T AND SCHNEIDER switchgear and circuit
+                                breakers</li>
+                            <li>AMC contracts, We are having good experience to
+                                maintain switchgear and circuit breakers by covering
+                                equipment against the Annual maintenance contract</li>
+                            <li>Low Voltage Circuit breakers and Panels.</li>
+                            <li>GIS switchgear</li>
+                            <li>All type of outdoor type breakers</li>
+                            <li>Railway breakers</li>
+                            <li>Ring main units</li>
+                            <li>Compact secondary substation</li>
+
+                        </ol>
+                    </div>
+
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        about    cssss     which need to addd in services
+
+        .about_area {
+  background: #fafcff;
+}
+
+.about_area .about_image img {
+  width: 100%;
+}
+
+.about_area .about_info {
+  padding-left: 68px;
+}
+
+@media (max-width: 767px) {
+  .about_area .about_info {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .about_area .about_info {
+    padding-left: 30px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .about_area .about_info {
+    padding-left: 30px;
+    padding-top: 0;
+    padding-bottom: 40px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .about_area .about_info {
+    padding-left: 30px;
+    padding-top: 0;
+  }
+}
+
+.about_area .about_info h3 {
+  font-size: 36px;
+  line-height: 55px;
+  font-weight: 400;
+  color: #2C2C2C;
+}
+
+@media (max-width: 767px) {
+  .about_area .about_info h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .about_area .about_info h3 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+}
+
+.about_area .about_info p {
+  font-size: 16px;
+  line-height: 28px;
+  color: #727272;
+  margin-bottom: 22px;
+  margin-top: 28px;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .about_area .about_info p br {
+    display: none;
+  }
+}
+
+.about_area .about_info ul {
+  margin-bottom: 56px;
+}
+
+@media (max-width: 767px) {
+  .about_area .about_info ul {
+    margin-bottom: 30px;
+  }
+}
+
+.about_area .about_info ul li {
+  font-size: 16px;
+  line-height: 28px;
+  color: #727272;
+  position: relative;
+  padding-left: 28px;
+  margin-bottom: 5px;
+  font-weight: 400;
+  z-index: 1;
+}
+
+.about_area .about_info ul li::before {
+  position: absolute;
+  left: 0;
+  background-image: url(../img/svg_icon/check.svg);
+  width: 16px;
+  height: 16px;
+  content: '';
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.about_area .about_info .boxed-btn3 {
+  padding: 13px 46px 14px 46px;
+}
+
+.about_bg_1 {
+  background-image: url(/img/banner/corevalue2.png);
+}
+.about_wrap_area {
+  padding: 145px 0 115px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+
+
+
+
+
+
+<form
+  action="https://formspree.io/f/xnqyprgb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="pcontainer">
+                <!--!----------------------------------------------------1------------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/GIS.jpg">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!---------------------------------------------------------2-------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+
+                <!--!-------------------------------------------------------3---------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!--------------------------------------------------------4--------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!----------------------------------------------------------5------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!--------------------------------------------------------6--------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!-----------------------------------------------------7------------------------------------------------------------ -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!------------------------------------------------------8----------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!-------------------------------------------------------9---------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!----------------------------------------------------------10------------------------------------------------------- -->
+                <div class="card">
+                    <div class="cardimg" >
+                        <img src="/img/Product/productone.png">
+                    </div>
+
+                    <div class="cardinfo">
+                        <!--<h3 class="cardhead">1.	RING MAIN UNITS </h3>-->
+                    </div>
+
+                </div>
+                <!--!----------------------------------------------------------------------------------------------------------------- -->
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+            SAAAS FILES DATA 
+
+services.scss -
+            .service_bg_1{
+    background-image: url(../img/about/servicos_particulares.png);
+}.service_bg_2{
+    background-image: url(../img/about/servicos_empresariais.png);
+}.service_bg_3{
+    background-image: url(../img/about/servicos_internacionais.png);
+}
+/*********************/
+
+
+
+
+
+
+
+
+
+<div class="productdisplay">
+<div class="wrapper">
+    <div class="pcontainer">
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/GIS.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/CC TP.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/CSS.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/HCA.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/HPA.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/MV S.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/RMU.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/SPMB.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/TR.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+        <div class="pgallery">
+            <figure class="card">
+                <img src="/img/Product/VD4.jpg" alt="">
+            </figure>
+        </div>
+        <!--!-------------->
+
+    </div>
+</div>
+</div>
+
+.pcontainer{
+ height: 100%;
+ max-width: 1200px;
+ margin: 0 auto;
+ padding: 20px;
+}
+
+.pgallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+}
+
+.card{
+  width: 40%;
+ position: relative;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+align-items: center;
+}
+
+.card img{
+  width: 100%;
+  height: 100%;
+  filter: grayscale(100%);
+  box-shadow: 0 0 20px #333;
+  object-fit: cover;
+}
+
+.card:hover{
+  transform: scale(1.03);
+  transition: 0.5s;
+  cursor: pointer;
+  filter: drop-shadow(0 0 10px #333);
+}
+#wrapper{
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.card:hover img{
+  filter: grayscale(0%);
+}
